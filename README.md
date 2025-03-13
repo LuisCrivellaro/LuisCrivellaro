@@ -1,27 +1,56 @@
-<h1 align="center">Hi 👋, I'm Luis Filipe Crivellaro</h1>
-<h3 align="center">Apaixonado por desenvolvimento de software, algoritmos e design. Sou Estudante de Engenharia de Software na FIAP - São Paulo, Brasil. Foco em resolução de problemas e construção de soluções inovadoras.</h3>
+<h1 align="left">Hi 👋, I'm Luis Filipe Crivellaro,</h1>
 
+###
 
-- 🌱 I’m currently learning **📌 Desenvolvimento Full Stack – Aprimorando minhas habilidades em React, Node.js e bancos de dados. 📌 Cloud Computing – Explorando AWS, Google Cloud e infraestrutura escalável. 📌 Inteligência Artificial – Investigando Machine Learning e Data Science para aplicar em projetos inovadores.**
+<h6 align="left">Apaixonado por desenvolvimento de software, algoritmos e design. Sou Estudante de Engenharia de Software na FIAP - São Paulo, Brasil. Foco em resolução de problemas e construção de soluções inovadoras.<br>🌱 I’m currently learning<br>📌 Desenvolvimento Full Stack – Aprimorando minhas habilidades em React, Node.js e bancos de dados.<br>📌 Inteligência Artificial – Investigando Machine Learning e Data Science para aplicar em projetos inovadores.<br><br>💬 Ask me about<br>❓ Desenvolvimento Full Stack com Node.js e React<br>❓ Soluções sustentáveis como o Ecopiso<br>❓ Tecnologias emergentes como IoT e Inteligência Artificial<br><br>📄 Know about my experiences<br>🔋 Ecopiso – Um piso gerador de energia sustentável, capaz de converter a energia cinética das pessoas em eletricidade, promovendo eficiência energética e impacto ambiental positivo.<br>📡 IoT Sustentável – Projeto focado em redução do consumo energético através de sensores inteligentes e automação.<br><br>⚡ Fun fact<br>💪 Apaixonado por musculação – Sempre buscando evolução dentro e fora da academia.<br>🥁 Baterista nas horas vagas – Nada como um bom som para equilibrar a rotina tech!</h6>
 
-- 💬 Ask me about **❓ Desenvolvimento Full Stack com Node.js e React ❓ Integração de bancos de dados SQL em projetos web ❓ Soluções sustentáveis como o Ecopiso ❓ Tecnologias emergentes como IoT e Inteligência Artificial**
+###
 
-- 📫 How to reach me **lipecrivellaro468@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCrivellaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisCrivellaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 📄 Know about my experiences [🔋 Ecopiso – Um piso gerador de energia sustentável, capaz de converter a energia cinética das pessoas em eletricidade, promovendo eficiência energética e impacto ambiental positivo. 📡 IoT Sustentável – Projeto focado em redução do consumo energético através de sensores inteligentes e automação.](🔋 Ecopiso – Um piso gerador de energia sustentável, capaz de converter a energia cinética das pessoas em eletricidade, promovendo eficiência energética e impacto ambiental positivo. 📡 IoT Sustentável – Projeto focado em redução do consumo energético através de sensores inteligentes e automação.)
+###
 
-- ⚡ Fun fact **💪 Apaixonado por musculação – Sempre buscando evolução dentro e fora da academia. 🥁 Baterista nas horas vagas – Nada como um bom som para equilibrar a rotina tech!**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luis filipe crivellaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis filipe crivellaro" height="30" width="40" /></a>
-<a href="https://instagram.com/lipe.crivellaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lipe.crivellaro" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="https://www.instagram.com/lipe.crivellaro?igsh=dm1uYmh3a3NheTVu&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="lipecrivellaro468@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/luis-filipe-crivellaro-8b7873304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiscrivellaro&show_icons=true&locale=en&layout=compact" alt="luiscrivellaro" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiscrivellaro&show_icons=true&locale=en" alt="luiscrivellaro" /></p>
-<p><img align="right" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE5MDMyNjAsIm5iZiI6MTc0MTkwMjk2MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEzVDIxNTYwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2ZTg5ZjVkMjE1OTllZTllYjVhMGJiYTUwMTkzNWNkMGNiNTg3YzYxN2VlOTkzMTczZGQ1ZGRmYzM2M2U4YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rlQdBCJRonMBKM0moBgqs3aw0Fl2S5Uuwu-zYqxj-cU" alt="luiscrivellaro" height="200"  width="200"/></p>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LuisCrivellaro/LuisCrivellaro/output/snake.svg" alt="Snake animation" />
+
+###
