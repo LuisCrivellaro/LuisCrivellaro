@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Filipe Crivellaro</h1>
 <h3 align="center">Apaixonado por desenvolvimento de software, algoritmos e design. Sou Estudante de Engenharia de Software na FIAP - São Paulo, Brasil. Foco em resolução de problemas e construção de soluções inovadoras.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luiscrivellaro" alt="luiscrivellaro" /></a> </p>
 
 - 🌱 I’m currently learning **📌 Desenvolvimento Full Stack – Aprimorando minhas habilidades em React, Node.js e bancos de dados. 📌 Cloud Computing – Explorando AWS, Google Cloud e infraestrutura escalável. 📌 Inteligência Artificial – Investigando Machine Learning e Data Science para aplicar em projetos inovadores.**
 
