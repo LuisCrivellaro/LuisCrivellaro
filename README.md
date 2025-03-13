@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Luis Filipe Crivellaro,</h1>
+<h1 align="left">Hi 👋, I'm Luis Filipe Crivellaro</h1>
 
 ###
 
