@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisCrivellaro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisCrivellaro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisCrivellaro&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisCrivellaro&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
   <a href="https://www.instagram.com/lipe.crivellaro?igsh=dm1uYmh3a3NheTVu&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="lipecrivellaro468@gmail.com" target="_blank">
+  <a href="mailto:lipecrivellaro468@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/luis-filipe-crivellaro-8b7873304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
